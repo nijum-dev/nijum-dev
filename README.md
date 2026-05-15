@@ -1,10 +1,17 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0b9a68ab-a6b6-4486-bb3e-823e3bbb1433" />
 <h1 align="center">Hi 👋, I'm Khatune Jannat Nijum</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jannat+Nijhum;CSE+Student+%7C+Web+Developer;Passionate+About+Programming+%26+Design;Building+Modern+and+Responsive+Web+Apps" alt="Typing Animation" />
+</h1>
 
-- 📫 How to reach me **jannatnijum12@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<h3 align="center">A passionate frontend developer & Engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/khatune-jannat-nijum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khatune-jannat-nijum" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
