@@ -77,7 +77,7 @@ CSE Student • Frontend Web Developer • Tech Enthusiast
 | :------ | :--------: | ---------- | ---------- |
 | QurbaniHat | [GitHub](https://github.com/nijum-dev/B13-A08) | Next.js, Tailwind CSS, MongoDB, Better Auth | Livestock marketplace, booking system, authentication, payment integration, E-commerce experience |
 | KeenKeeper | [GitHub](https://github.com/nijum-dev/b13-a07) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
-| IdeaVault | [GitHub]((https://github.com/nijum-dev/b13-a09)) | Next.js, Express.js, MongoDB, Node.js, JWT |Full-stack platform, authentication, CRUD, comment management |
+| IdeaVault | [GitHub]((https://github.com/nijum-dev/b13-a09) | Next.js, Express.js, MongoDB, Node.js, JWT |Full-stack platform, authentication, CRUD, comment management |
 
 ---
 
