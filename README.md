@@ -73,14 +73,11 @@ CSE Student • Frontend Web Developer • Tech Enthusiast
 
 ## 📌 Featured Projects
 
-### 🚀 QurbaniHat – Livestock Booking Platform
-Modern livestock marketplace built with Next.js & Tailwind CSS.
-
-### 🎮 Snake Game using Java
-Classic snake game with score tracking and difficulty levels.
-
-### 🤖 Swarm Robotic System
-Leader-follower robotic system using ESP32 and Bluetooth communication.
+| Project | Repository | Tech Stack | Highlights |
+| :------ | :--------: | ---------- | ---------- |
+| QurbaniHat | [GitHub](https://github.com/nijum-dev/qurbanihat) | Next.js, Tailwind CSS, MongoDB, Better Auth | Livestock marketplace, booking system, authentication, payment integration, E-commerce experience |
+| KeenKeeper | [GitHub](https://github.com/nijum-dev/snake-game) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
+| IdeaVault | [GitHub](https://github.com/nijum-dev/swarm-robotic-system) | Next.js, Express.js, MongoDB, Node.js, JWT |Full-stack platform, authentication, CRUD, comment management |
 
 ---
 
