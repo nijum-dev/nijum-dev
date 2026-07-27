@@ -75,16 +75,20 @@ CSE Student • Frontend Web Developer • Tech Enthusiast
 
 | Project | Repository | Tech Stack | Highlights |
 | :------ | :--------: | ---------- | ---------- |
-| QurbaniHat | [GitHub](https://github.com/nijum-dev/qurbanihat) | Next.js, Tailwind CSS, MongoDB, Better Auth | Livestock marketplace, booking system, authentication, payment integration, E-commerce experience |
-| KeenKeeper | [GitHub](https://github.com/nijum-dev/snake-game) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
-| IdeaVault | [GitHub](https://github.com/nijum-dev/swarm-robotic-system) | Next.js, Express.js, MongoDB, Node.js, JWT |Full-stack platform, authentication, CRUD, comment management |
+| QurbaniHat | [GitHub](https://github.com/nijum-dev/B13-A08) | Next.js, Tailwind CSS, MongoDB, Better Auth | Livestock marketplace, booking system, authentication, payment integration, E-commerce experience |
+| KeenKeeper | [GitHub](https://github.com/nijum-dev/b13-a07) | Next.js, Tailwind CSS, Recharts, Context API | Friendship tracker, timeline history, analytics dashboard |
+| IdeaVault | [GitHub]([https://github.com/nijum-dev/swarm-robotic-system](https://github.com/nijum-dev/b13-a09)) | Next.js, Express.js, MongoDB, Node.js, JWT |Full-stack platform, authentication, CRUD, comment management |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nijum-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nijum-dev&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijum-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
